@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Salies/obg-server.git"
+    "url": "git+https://github.com/OpenBoardGame/obg-server.git"
   },
   "keywords": [
     "board-game",
@@ -19,9 +19,9 @@
   "author": "OpenBoardGame",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/Salies/obg-server/issues"
+    "url": "https://github.com/OpenBoardGame/obg-server/issues"
   },
-  "homepage": "https://github.com/Salies/obg-server#readme",
+  "homepage": "https://github.com/OpenBoardGame/obg-server#readme",
   "dependencies": {
     "socket.io": "^2.3.0"
   }
