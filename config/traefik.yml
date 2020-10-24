@@ -1,0 +1,8 @@
+providers:
+  docker: {}
+
+api:
+  insecure: true
+
+log:
+  level: DEBUG
