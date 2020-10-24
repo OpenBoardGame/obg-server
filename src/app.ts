@@ -1,1 +1,8 @@
-console.log("Now with 200% more typescript!");
+import { createServer } from "http";
+
+const server = createServer((req, res) => {
+	res.write("Hello there");
+	res.end();
+});
+
+server.listen(3000);
